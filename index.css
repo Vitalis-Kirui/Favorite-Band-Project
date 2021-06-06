@@ -12,3 +12,32 @@
     text-align: top;
     font-family: Arial;
     }
+    .Header{
+        text-align: center;
+        margin: 15px;
+        border: solid;
+        border-radius: 20px;
+        border-color: maroon;
+        text-indent: 10px;
+        text-align-last: auto;
+        margin-right: 20px;
+        }
+        h2{
+        text-align: center;
+        color: rgb(0, 26, 255);
+        font-size: x-large;
+        }
+        h3{
+            width: 200px;
+            color: rgb(250, 0, 0);
+            margin-right: 300px;
+            text-align: start;
+            margin-left: 400px;
+            margin-top: 10px;
+            }
+            h4{
+            color: rgb(238, 255, 0);
+            margin-right: 300px;
+            text-align: start;
+            margin-left: 400px;
+            }
