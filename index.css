@@ -41,3 +41,12 @@
             text-align: start;
             margin-left: 400px;
             }
+            .Images{
+                width: 150;
+                margin-top: 20px;
+                border: outset 7px;
+                border-color: mediumturquoise;
+                border-radius: 50px;
+                float: left;
+                margin-left: 100px;
+                }
