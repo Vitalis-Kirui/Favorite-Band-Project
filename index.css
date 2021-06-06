@@ -80,3 +80,10 @@
                     text-align: center;
                     margin-left: 15px;
                     }
+                    .songs{
+                        border-style: double;
+                        text-align: center;
+                        border-radius: 20px;
+                        border-width: 3px;
+                        margin-left: 20px;
+                        }
