@@ -1,0 +1,14 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 105%;
+    background-color: rgb(224, 165, 165);
+    
+    }
+    h1{
+    font-size: 500%;
+    text-align: center;
+    font-weight: bold;
+    color: maroon;
+    text-align: top;
+    font-family: Arial;
+    }
